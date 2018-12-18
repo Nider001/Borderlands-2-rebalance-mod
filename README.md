@@ -3,6 +3,7 @@ A mix between ultimate vault hunter and normal playthrough mods with some extra 
 
 Installation:
 
+0. Ignore files/folders at the top and download the archive: https://drive.google.com/file/d/1kkYZ9yfpL6xPiPn2ij3Gs69kL9Jn__l6/view?usp=sharing
 1. Launch Borderlands Hex Multitool
 2. Set the patch for Borderlands 2: "...\steam\steamapps\common\Borderlands 2\Binaries\Win32\Borderlands2.exe"
 3. Click on the icon for Borderlands 2 then apply "Console and Set Command" and "UVHM Level Modifier"
