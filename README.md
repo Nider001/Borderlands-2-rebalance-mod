@@ -7,14 +7,7 @@ MAKE SURE YOU HAVE BOTH ULTIMATE VAULT HUNTER UPGRADE PACKS INSTALLED. THEY ARE 
 
 Installation:
 
-0. Ignore files/folders at the top and download the archive: https://drive.google.com/file/d/1kkYZ9yfpL6xPiPn2ij3Gs69kL9Jn__l6/view?usp=sharing
-1. Launch Borderlands Hex Multitool
-2. Set the path for Borderlands 2: "...\steam\steamapps\common\Borderlands 2\Binaries\Win32\Borderlands2.exe"
-3. Click on the icon for Borderlands 2 then apply "Console and Set Command" (set a keybind) and "UVHM Level Modifier" (set the value to 1)
-4. Move "mod.txt" file to your "...\steam\steamapps\common\Borderlands 2\Binaries" folder
-5. Copy the save file for your desired character into "Documents/MyGames/Borderlands 2/WillowGame/SaveData/[folder that has random numbers as the name]". Make sure to choose Ultimate Vault Hunter mode option upon selecting the new character through in-game menu
-6. Disable cloud saves for Borderlands 2 in Steam to prevent auto-removal of the new save
-7. Every time you launch the game you must press the key you specified to open the console and type "exec mod.txt" without quotes (from the main menu, before pressing "continue")
+https://imgur.com/a/twL4oJV
 
 Changes:
 
