@@ -21,3 +21,4 @@ Changes:
 8. Launcher ammo pickup ammo count is reduced from 4 to 2
 9. Enemies that have higher level compared to the player are set to provide bonus EXP
 10. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 20% when level difference reaches 2
+11. Golden Chest is no longer guaranteed to contain purple gear
