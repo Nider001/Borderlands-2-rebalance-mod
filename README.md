@@ -1,6 +1,8 @@
 # Borderlands-2-rebalance-mod
 A mix between ultimate vault hunter and normal playthrough mods with some extra changes for refreshing experience
 
+https://drive.google.com/file/d/1kkYZ9yfpL6xPiPn2ij3Gs69kL9Jn__l6/view?usp=sharing
+
 IMPORTANT STUFF:
 
 MAKE SURE YOU HAVE BOTH ULTIMATE VAULT HUNTER UPGRADE PACKS INSTALLED. THEY ARE ESSENTIAL FOR THE MOD TO RUN CORRECTLY!
