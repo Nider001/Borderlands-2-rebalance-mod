@@ -16,9 +16,10 @@ Changes:
 3. Most of the other features from UVHM are disabled (minus new enemy types)
 4. Death Penalty Cost (the amount of money you lose after dying in % of your current sum) is increased to 20%
 5. EXP penalty for killing enemies with vehicle weapons is reduced from 80% to 50%
-6. Enemy shield capacity is increased to promote the usage of shock weapons
-7. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
-8. Launcher ammo pickup ammo count is reduced from 4 to 2
-9. Enemies that have higher level compared to the player are set to provide bonus EXP
-10. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 20% when level difference reaches 2
-11. Golden Chest is no longer guaranteed to contain purple gear
+6. EXP bonus for killing enemies of higher levels is significantly increased
+7. Enemy shield capacity is increased to promote the usage of shock weapons
+8. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
+9. Launcher ammo pickup ammo count is reduced from 4 to 2
+10. Enemies that have higher level compared to the player are set to provide bonus EXP
+11. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 25% when level difference reaches 2
+12. Golden Chest is no longer guaranteed to contain purple gear
