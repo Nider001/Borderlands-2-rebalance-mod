@@ -25,3 +25,5 @@ Changes:
 10. Enemies that have higher level compared to the player are set to provide bonus EXP
 11. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 25% when level difference reaches 2
 12. Golden Chest is no longer guaranteed to contain purple gear
+13. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
+14. Torgue Vending Machines are no longer allowed to have purple gear in regular stock
