@@ -28,3 +28,4 @@ Changes:
 13. Golden Chest is no longer guaranteed to contain purple gear
 14. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
 15. All gear other than items of the day are removed from Torgue Vending Machines
+16. Enemies no longer recieve bonus stats for extra coop players
