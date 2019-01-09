@@ -23,7 +23,7 @@ Changes:
 8. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
 9. Launcher ammo pickup ammo count is reduced from 4 to 2
 10. Enemies that have higher level compared to the player are set to provide bonus EXP
-11. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 25% when level difference reaches 2
+11. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 22.5% when level difference reaches 2
 12. Enemies now have a chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns)
 13. Golden Chest is no longer guaranteed to contain purple gear
 14. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
