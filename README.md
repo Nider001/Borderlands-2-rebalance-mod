@@ -17,7 +17,7 @@ Changes:
 2. Level of gear, missions and enemies is set to scale with player level as in Ultimate Vault Hunter mode
 3. Most of the other features from UVHM are disabled (minus new enemy types)
 4. Death Penalty Cost (the amount of money you lose after dying in % of your current sum) is increased to 20%
-5. EXP penalty for killing enemies with vehicle weapons is removed
+5. EXP penalty for killing enemies with vehicle weapons is reduced to 33%
 6. EXP bonus for killing enemies of higher levels is significantly increased
 7. Enemy shield capacity is increased to promote the usage of shock weapons
 8. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
