@@ -25,7 +25,7 @@ Changes:
 10. Launcher ammo cost is increased by 50%
 11. Enemies that have higher level compared to the player are set to provide bonus EXP
 12. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
-13. Health of all badass enemies (including bosses) is increased by 40%
+13. Health of all badass enemies (including bosses) is increased by 50%
 14. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
 15. Chubby/Tubby enemies now have a high chance of dropping a random E-tech weapon
 16. Weapon SDU rewards are replaced with a random uncommon weapon reward (the first one) and a random e-tech weapon reward (the second one)
