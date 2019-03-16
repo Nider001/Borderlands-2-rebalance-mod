@@ -29,8 +29,7 @@ Changes:
 14. Health of main story bosses is increased further 
 15. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
 16. Weapon SDU rewards are replaced with a random uncommon assault rifle (the first one) and a random uncommon class mod (the second one)
-17. All weapons are replaced with their E-tech equivalents on Hero's Pass enemies (5% chance to drop upon death)
-18. Golden Chest is no longer guaranteed to contain purple gear
-19. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
-20. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
-21. Bonus enemy stats for extra coop players are significantly reduced
+17. Golden Chest is no longer guaranteed to contain purple gear
+18. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
+19. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
+20. Bonus enemy stats for extra coop players are significantly reduced
