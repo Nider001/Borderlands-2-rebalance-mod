@@ -21,16 +21,18 @@ Changes:
 6. EXP bonus for killing enemies of higher levels is significantly increased
 7. Enemy respawn delay is increased
 8. Enemy shield capacity is increased to promote the usage of shock weapons
-9. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
-10. Launcher ammo pickup ammo count is reduced from 4 to 2
-11. Launcher ammo cost is increased by 50%
-12. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
-13. Health of all badass enemies (including bosses) is increased by 50%
-14. Health of main story bosses is increased further 
-15. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
-16. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
-17. Cooldown of Gunzerking ability is increased by 50%
-18. Golden Chest is no longer guaranteed to contain purple gear
-19. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
-20. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
-21. Bonus enemy stats for extra coop players are significantly reduced
+9. Base damage of all pistols is reduced by 10%
+10. Base accuracy of all SMGs is reduced by 10%
+11. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
+12. Launcher ammo pickup ammo count is reduced from 4 to 2
+13. Launcher ammo cost is increased by 50%
+14. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
+15. Health of all badass enemies (including bosses) is increased by 50%
+16. Health of main story bosses is increased further 
+17. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
+18. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
+19. Cooldown of Gunzerking ability is increased by 50%
+20. Golden Chest is no longer guaranteed to contain purple gear
+21. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
+22. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
+23. Bonus enemy stats for extra coop players are significantly reduced
