@@ -38,3 +38,4 @@ Changes:
 23. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
 24. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
 25. Bonus enemy stats for extra coop players are significantly reduced
+26. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
