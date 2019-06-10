@@ -13,11 +13,11 @@ https://imgur.com/a/twL4oJV
 
 Changes:
 
-1. Universal Balance Modifier value is reduced from 13% to 1.5%. Things such as weapon damage, shield capacity, certain relic stats, etc. increase by 13% for each level that the player has in vanilla (notice how late-game weapons deal 10000x more damage compared to starting ones). I'm not a big fan of this mechanic, so I've decided to soften the curve a bit.
+1. Universal Balance Modifier value is reduced from 13% to 1.4%. Things such as weapon damage, shield capacity, certain relic stats, etc. increase by 13% for each level that the player has in vanilla (notice how late-game weapons deal 10000x more damage compared to starting ones). I'm not a big fan of this mechanic, so I've decided to soften the curve a bit.
 2. Level of gear, missions and enemies is set to scale with player level as in Ultimate Vault Hunter mode
 3. Most of the other features from UVHM are disabled (minus new enemy types)
 4. Level requirement is hidden and diabled for every item in the game (level is not everything!)
-5. Death Penalty Cost (the amount of money you lose after dying in % of your current sum) is increased to 20%
+5. Death Penalty Cost (the amount of money you lose after dying in % of your current sum) is increased to 21%
 6. EXP penalty for killing enemies with vehicle weapons is reduced to 33%
 7. EXP bonus for killing enemies of higher levels is significantly increased
 8. Enemy respawn delay is increased
