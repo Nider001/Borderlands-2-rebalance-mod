@@ -36,7 +36,8 @@ Changes:
 21. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
 22. Cooldown of Gunzerking ability is increased by 50%
 23. Golden Chest is no longer guaranteed to contain purple gear
-24. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
-25. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
-26. Bonus enemy stats for extra coop players are significantly reduced
-27. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
+24. All Torgue Token drops are doubled
+25. Torgue Vending Machines are no longer allowed to have legendary gear as an item of the day (replaced with purple gear instead)
+26. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
+27. Bonus enemy stats for extra coop players are significantly reduced
+28. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
