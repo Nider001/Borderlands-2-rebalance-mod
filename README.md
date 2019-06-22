@@ -26,6 +26,7 @@ Changes:
 11. Base damage of all shotguns is increased by 10%
 12. Base damage of all assault rifles is increased by 5%
 13. Base accuracy of all SMGs is reduced by 10%
+14. Non-unique sniper rifles (except for DAHL variants) may spawn without a scope (compensated by slightly improved accuracy, the chance is lower for weapons of higher rarity)
 14. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
 15. Launcher ammo pickup ammo count is reduced from 4 to 2
 16. Launcher ammo cost is increased by 50%
