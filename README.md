@@ -17,7 +17,7 @@ Changes:
 2. Level of gear, missions and enemies is set to scale with player level as in Ultimate Vault Hunter mode
 3. Most of the other features from UVHM are disabled (minus new enemy types)
 4. Level requirement is hidden and diabled for every item in the game (level is not everything!)
-5. Legendary and Pearlescent items are replaced with Epic ones in random enemy drop pools (this includes Loot Midgets to prevent farming)
+5. Legendary and Pearlescent items are replaced with Epic ones in some of the random enemy drop pools (this includes Loot Midgets to prevent farming)
 6. Death Penalty Cost (the amount of money you lose after dying in % of your current sum) is increased to 21%
 7. EXP penalty for killing enemies with vehicle weapons is reduced to 33%
 8. EXP bonus for killing enemies of higher levels is significantly increased
