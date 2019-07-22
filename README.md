@@ -13,7 +13,7 @@ https://imgur.com/a/twL4oJV
 
 Changes:
 
-1. Universal Balance Modifier value is reduced from 13% to 1.4%. Things such as weapon damage, shield capacity, certain relic stats, etc. increase by 13% for each level that the player has in vanilla (notice how late-game weapons deal 10000x more damage compared to starting ones). I'm not a big fan of this mechanic, so I've decided to soften the curve a bit.
+1. Universal Balance Modifier value is reduced from 13% to 1.4%. Things such as weapon damage, shield capacity, certain relic stats, etc. increase by 13% for each level that the player has in vanilla (notice how late-game weapons deal 10000x more damage compared to starting ones). I'm not a big fan of this mechanic, so I've decided to soften the curve a bit
 2. Level of gear, missions and enemies is set to scale with player level as in Ultimate Vault Hunter mode
 3. Most of the other features from UVHM are disabled (minus new enemy types)
 4. Level requirement is hidden and diabled for every item in the game (level is not everything!)
@@ -23,22 +23,23 @@ Changes:
 8. EXP bonus for killing enemies of higher levels is significantly increased
 9. Enemy respawn delay is increased
 10. Enemy shield capacity is increased to promote the usage of shock weapons
-11. Base damage of all pistols is reduced by 10%
-12. Base damage of all shotguns is increased by 10%
-13. Base damage of all assault rifles is increased by 5%
-14. Base accuracy of all SMGs is reduced by 10%
-15. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
-16. Launcher ammo pickup ammo count is reduced from 4 to 2
-17. Launcher ammo cost is increased by 50%
-18. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
-19. Health of all badass enemies (including bosses) is increased by 50%
-20. Health of main story bosses is increased further 
-21. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
-22. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
-23. Cooldown of Gunzerking ability is increased by 50%
-24. Golden Chest is no longer guaranteed to contain purple gear
-25. All Torgue Token drops are doubled
-26. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
-27. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
-28. Bonus enemy stats for extra coop players are significantly reduced
-29. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
+11. Generic enemy grenade damage is tripled (said damage is extremely low in vanilla)
+12. Base damage of all pistols is reduced by 10%
+13. Base damage of all shotguns is increased by 10%
+14. Base damage of all assault rifles is increased by 5%
+15. Base accuracy of all SMGs is reduced by 10%
+16. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
+17. Launcher ammo pickup ammo count is reduced from 4 to 2
+18. Launcher ammo cost is increased by 50%
+19. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
+20. Health of all badass enemies (including bosses) is increased by 50%
+21. Health of main story bosses is increased further 
+22. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
+23. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
+24. Cooldown of Gunzerking ability is increased by 50%
+25. Golden Chest is no longer guaranteed to contain purple gear
+26. All Torgue Token drops are doubled
+27. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
+28. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
+29. Bonus enemy stats for extra coop players are significantly reduced
+30. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
