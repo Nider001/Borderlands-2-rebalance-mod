@@ -25,22 +25,23 @@ Changes:
 10. Enemy respawn delay is increased
 11. Enemy shield capacity is increased to promote the usage of shock weapons
 12. Generic enemy grenade damage is tripled (said damage is extremely low in vanilla)
-13. Base damage of all pistols is reduced by 10%
-14. Base damage of all shotguns is increased by 10%
-15. Base damage of all assault rifles is increased by 5%
-16. Base accuracy of all SMGs is reduced by 10%
-17. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
-18. Launcher ammo pickup ammo count is reduced from 4 to 2
-19. Launcher ammo cost is increased by 50%
-20. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
-21. Health of all badass enemies (including bosses) is increased by 50%
-22. Health of main story bosses is increased further 
-23. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
-24. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
-25. Cooldown of Gunzerking ability is increased by 50%
-26. Golden Chest is no longer guaranteed to contain purple gear
-27. All Torgue Token drops are doubled
-28. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
-29. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
-30. Bonus enemy stats for extra coop players are significantly reduced
-31. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
+13. Base damage of all assault rifles is significantly increased (to the level of vanilla pistols)
+14. Base damage of all SMGs is moderately increased (to the level of vanilla assault rifles)
+15. Base damage of all pistols is greatly reduced (to the level of vanilla SMGs)
+16. Base damage of all shotguns is increased by 10%
+17. Base accuracy of all SMGs is reduced by 10%
+18. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
+19. Launcher ammo pickup ammo count is reduced from 4 to 2
+20. Launcher ammo cost is increased by 50%
+21. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
+22. Health of all badass enemies (including bosses) is increased by 50%
+23. Health of main story bosses is increased further 
+24. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
+25. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
+26. Cooldown of Gunzerking ability is increased by 50%
+27. Golden Chest is no longer guaranteed to contain purple gear
+28. All Torgue Token drops are doubled
+29. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
+30. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
+31. Bonus enemy stats for extra coop players are significantly reduced
+32. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
