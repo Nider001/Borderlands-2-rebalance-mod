@@ -44,6 +44,7 @@ Changes:
 26. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
 27. Cooldown of Gunzerking ability is increased by 50%
 28. Golden Chest is no longer guaranteed to contain purple gear
+29. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
 29. All Torgue Token drops are doubled
 30. Torgue Token rewards for completing tier 3 rematch missions are increased to 50
 31. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
