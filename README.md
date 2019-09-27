@@ -22,8 +22,8 @@ Changes:
 4. Level requirement is hidden and diabled for every item in the game (level is not everything!)
 5. Legendary and Pearlescent items are replaced with Epic ones in some of the random enemy drop pools (this includes Loot Midgets to prevent farming)
 6. Stat bonuses from Badass Tokens are set to diminish much faster with each instance applied
-7. Death Penalty Cost (the amount of money you lose after dying in % of your current sum) is increased to 21%
-8. EXP penalty for killing enemies with vehicle weapons is reduced to 33%
+7. Death Penalty Cost (the amount of money you lose after dying in % of your current sum) is increased to 100%
+8. EXP penalty for killing enemies with vehicle weapons is removed
 9. EXP bonus for killing enemies of higher levels is significantly increased
 10. EXP rewards for completing missions is increased by 10%
 11. Enemy respawn delay is increased
@@ -37,17 +37,20 @@ Changes:
 19. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
 20. Launcher ammo pickup ammo count is reduced from 4 to 2
 21. Launcher ammo cost is increased by 50%
-22. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
-23. Health of all badass enemies (including bosses) is increased by 50%
-24. Health of main story bosses is increased further 
-25. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
-26. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
-27. Cooldown of Gunzerking ability is increased by 50%
-28. Golden Chest is no longer guaranteed to contain purple gear
-29. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
-29. All Torgue Token drops are doubled
-30. Torgue Token rewards for completing tier 3 rematch missions are increased to 50
-31. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
-32. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
-33. Bonus enemy stats for extra coop players are significantly reduced
-34. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
+22. Item selling costs are reduced by 50%. This does not affect buying costs
+23. Most of the regular Vending Machines are set to offer higher quality items
+24. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
+25. Health of all badass enemies (including bosses) is increased by 50%
+26. Health of main story bosses is increased further 
+27. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
+28. Enemies now drop their weapons upon death
+29. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
+30. Cooldown of Gunzerking ability is increased by 50%
+31. Golden Chest is no longer guaranteed to contain purple gear
+32. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
+33. All Torgue Token drops are doubled
+34. Torgue Token rewards for completing tier 3 rematch missions are increased to 50
+35. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
+36. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
+37. Bonus enemy stats for extra coop players are significantly reduced
+38. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
