@@ -32,7 +32,7 @@ Changes:
 14. Base damage of all assault rifles is significantly increased (to the level of vanilla pistols)
 15. Base damage of all SMGs is moderately increased (to the level of vanilla assault rifles)
 16. Base damage of all pistols is greatly reduced (to the level of vanilla SMGs)
-17. Base damage of all shotguns is increased by 10%
+17. Base damage and accuracy of all shotguns is increased by 10%
 18. Base accuracy of all SMGs is reduced by 10%
 19. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
 20. Launcher ammo pickup ammo count is reduced from 4 to 2
