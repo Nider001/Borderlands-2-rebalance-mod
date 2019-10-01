@@ -38,7 +38,7 @@ Changes:
 20. Launcher ammo pickup ammo count is reduced from 4 to 2
 21. Launcher ammo cost is increased by 50%
 22. Item selling costs are reduced by 50%. This does not affect buying costs
-23. Black Market costs are increased. (Eridium becomes much more common at higher levels due to change [6])
+23. Hornet and Bonus Package drop rates are halved
 24. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
 25. Health of all badass enemies (including bosses) is increased by 50%
 26. Health of main story bosses is increased further 
