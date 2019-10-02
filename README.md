@@ -44,14 +44,15 @@ Changes:
 26. Health of main story bosses is increased further 
 27. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
 28. Enemies now drop their weapons upon death
-29. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
-30. Cooldown of Gunzerking ability is increased by 50%
-31. Golden Chest is no longer guaranteed to contain purple gear
-32. Cost to open Golden Chest is changed to 10 Eridium
-33. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
-34. All Torgue Token drops are doubled
-35. Torgue Token rewards for completing tier 3 rematch missions are increased to 50
-36. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
-37. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
-38. Bonus enemy stats for extra coop players are significantly reduced
-39. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
+29. Angelic Guards are replaced with SGT Loaders across most of the levels
+30. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
+31. Cooldown of Gunzerking ability is increased by 50%
+32. Golden Chest is no longer guaranteed to contain purple gear
+33. Cost to open Golden Chest is changed to 10 Eridium
+34. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
+35. All Torgue Token drops are doubled
+36. Torgue Token rewards for completing tier 3 rematch missions are increased to 50
+37. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
+38. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
+39. Bonus enemy stats for extra coop players are significantly reduced
+40. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
