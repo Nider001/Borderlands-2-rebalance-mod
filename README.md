@@ -44,7 +44,7 @@ Changes:
 26. Health of main story bosses is increased further 
 27. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
 28. Enemies now drop their weapons upon death
-29. Angelic Guards are replaced with SGT Loaders across most of the levels
+29. Angelic Guards are replaced with SGT Loaders across most of the locations
 30. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
 31. Cooldown of Gunzerking ability is increased by 50%
 32. Golden Chest is no longer guaranteed to contain purple gear
