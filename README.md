@@ -57,5 +57,7 @@ Changes:
 39. Torgue Token rewards for completing tier 3 rematch missions are increased to 50
 40. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with purple gear instead)
 41. Torgue Vending Machines no longer sell weapons (excluding item of the day) and provide free ammo instead
-42. Bonus enemy stats for extra coop players are significantly reduced
-43. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
+42. Seraph Vendors are set to sell gear of higher level (stats are better compared to same items from boss drops)
+43. The item pool of Seraph Vendor in Oasis is expanded
+44. Bonus enemy stats for extra coop players are significantly reduced
+45. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
