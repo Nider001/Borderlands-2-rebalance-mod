@@ -35,12 +35,12 @@ Changes:
 17. Base damage of all SMGs is moderately increased (to the level of vanilla assault rifles)
 18. Base damage of all pistols is greatly reduced (to the level of vanilla SMGs)
 19. Base damage of all shotguns is increased by 10%
-20. Unkempt Harold's ammo consumption is increased to 3 per shot
-21. Lucrative Opportunity's bonus is massively improved
-22. Base accuracy of all SMGs is reduced by 10%
-23. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
-24. Launcher ammo pickup ammo count is reduced from 4 to 2
-25. Launcher ammo cost is increased by 50%
+20. Base accuracy of all SMGs is reduced by 10%
+21. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
+22. Launcher ammo pickup ammo count is reduced from 4 to 2
+23. Launcher ammo cost is increased by 50%
+24. Unkempt Harold's ammo consumption is increased to 3 per shot
+25. Lucrative Opportunity's bonus is massively improved
 26. Item selling costs are reduced by 50%. This does not affect buying costs
 27. Hornet and Bonus Package drop rates are halved
 28. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
