@@ -42,7 +42,7 @@ Changes:
 24. Unkempt Harold's ammo consumption is increased to 3 per shot
 25. Lucrative Opportunity's bonus is massively improved
 26. Item selling costs are reduced by 50%. This does not affect buying costs
-27. Hornet and Bonus Package drop rates are halved
+27. Legendary drops at Southern Shelf are disabled until the player hits level 10. Hornet and Bonus Package drop rates are halved
 28. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
 29. Health of all badass enemies (including bosses) is increased by 50%
 30. Health of main story bosses is increased further 
