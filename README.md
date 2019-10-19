@@ -27,7 +27,7 @@ Changes:
 9. EXP bonus for killing enemies of higher levels is significantly increased
 10. EXP rewards for completing missions is increased by 10%
 11. Fight For Your Life changes: initial duration is increased to 15 second in SP and reduced to 10 in MP, initial bonus damage is removed
-12. Rejuvenator is redesigned into expensive healing item that can be stored in the inventory. Extra shield regen is added on top of health regen. Vending Machines are set to sell Rejuvenator instead of Health Now.
+12. Rejuvenator is redesigned into expensive healing item that can be stored in the inventory: extra shield regen is added on top of health regen, Vending Machines are set to sell Rejuvenator instead of Health Now.
 13. Slag bonus damage is reduced to 34%
 14. Enemy respawn delay is increased
 15. Enemy shield capacity is increased to promote the usage of shock weapons
