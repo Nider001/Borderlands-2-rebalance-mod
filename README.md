@@ -27,39 +27,40 @@ Changes:
 9. EXP bonus for killing enemies of higher levels is significantly increased
 10. EXP rewards for completing missions is increased by 10%
 11. Fight For Your Life changes: initial duration is increased to 15 second in SP and reduced to 10 in MP, initial bonus damage is removed
-12. Slag bonus damage is reduced to 34%
-13. Enemy respawn delay is increased
-14. Enemy shield capacity is increased to promote the usage of shock weapons
-15. Generic enemy grenade damage is tripled (said damage is extremely low in vanilla)
-16. Base damage of all assault rifles is significantly increased (to the level of vanilla pistols)
-17. Base damage of all SMGs is moderately increased (to the level of vanilla assault rifles)
-18. Base damage of all pistols is greatly reduced (to the level of vanilla SMGs)
-19. Base damage of all shotguns is increased by 10%
-20. Base accuracy of all SMGs is reduced by 10%
-21. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
-22. Launcher ammo pickup ammo count is reduced from 4 to 2
-23. Launcher ammo cost is increased by 50%
-24. Unkempt Harold's ammo consumption is increased to 3 per shot
-25. Lucrative Opportunity's bonus is massively improved
-26. Item selling costs are reduced by 50%. This does not affect buying costs
-27. Legendary drops at Southern Shelf are disabled until the player hits level 10. Hornet and Bonus Package drop rates are halved
-28. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
-29. Health of all badass enemies (including bosses) is increased by 50%
-30. Health of main story bosses is increased further 
-31. Health of all raid bosses is reduced
-32. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
-33. Enemies now drop their weapons upon death
-34. Angelic Guards are replaced with SGT Loaders across most of the locations
-35. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
-36. Cooldown of Gunzerking ability is increased by 50%
-37. Golden Chest is no longer guaranteed to contain purple gear
-38. Cost to open Golden Chest is changed to 10 Eridium
-39. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
-40. All Torgue Token drops are doubled (does not affect mission rewards)
-41. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 300 for items of the day
-42. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
-43. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
-44. Seraph Vendors are set to sell gear of higher level (stats are better compared to same items from boss drops)
-45. The item pool of Seraph Vendor in Oasis is expanded
-46. Bonus enemy stats for extra coop players are significantly reduced
-47. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
+12. Rejuvenator is redesigned into expensive healing item that can be stored in the inventory. Extra shield regen is added on top of health regen. Vending Machines are set to sell Rejuvenator instead of Health Now.
+13. Slag bonus damage is reduced to 34%
+14. Enemy respawn delay is increased
+15. Enemy shield capacity is increased to promote the usage of shock weapons
+16. Generic enemy grenade damage is tripled (said damage is extremely low in vanilla)
+17. Base damage of all assault rifles is significantly increased (to the level of vanilla pistols)
+18. Base damage of all SMGs is moderately increased (to the level of vanilla assault rifles)
+19. Base damage of all pistols is greatly reduced (to the level of vanilla SMGs)
+20. Base damage of all shotguns is increased by 10%
+21. Base accuracy of all SMGs is reduced by 10%
+22. Base damage of Grenade Mods is reduced by 25%, elemental damage is reduced by 50%
+23. Launcher ammo pickup ammo count is reduced from 4 to 2
+24. Launcher ammo cost is increased by 50%
+25. Unkempt Harold's ammo consumption is increased to 3 per shot
+26. Lucrative Opportunity's bonus is massively improved
+27. Item selling costs are reduced by 50%. This does not affect buying costs
+28. Legendary drops at Southern Shelf are disabled until the player hits level 10. Hornet and Bonus Package drop rates are halved
+29. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
+30. Health of all badass enemies (including bosses) is increased by 50%
+31. Health of main story bosses is increased further 
+32. Health of all raid bosses is reduced
+33. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
+34. Enemies now drop their weapons upon death
+35. Angelic Guards are replaced with SGT Loaders across most of the locations
+36. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
+37. Cooldown of Gunzerking ability is increased by 50%
+38. Golden Chest is no longer guaranteed to contain purple gear
+39. Cost to open Golden Chest is changed to 10 Eridium
+40. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
+41. All Torgue Token drops are doubled (does not affect mission rewards)
+42. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 300 for items of the day
+43. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
+44. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
+45. Seraph Vendors are set to sell gear of higher level (stats are better compared to same items from boss drops)
+46. The item pool of Seraph Vendor in Oasis is expanded
+47. Bonus enemy stats for extra coop players are significantly reduced
+48. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
