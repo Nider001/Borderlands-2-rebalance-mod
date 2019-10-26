@@ -60,7 +60,7 @@ Changes:
 42. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
 43. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
 44. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
-45. Seraph Vendors are set to sell gear of higher level (stats are better compared to same items from boss drops)
+45. Seraph Vendor item costs are halved
 46. The item pool of Seraph Vendor in Oasis is expanded
 47. Bonus enemy stats for extra coop players are significantly reduced
 48. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
