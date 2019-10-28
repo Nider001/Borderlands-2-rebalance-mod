@@ -21,7 +21,7 @@ Changes:
 3. Most of the other features from UVHM are disabled (minus new enemy types)
 4. Level requirement is hidden and diabled for every item in the game (level is not everything!)
 5. Legendary and Pearlescent items are replaced with Epic ones in some of the random enemy drop pools (this includes Loot Midgets to prevent farming)
-6. Formula of stat bonuses from Badass Tokens is changed to "0.1 * stat_level" 
+6. Formula of stat bonuses from Badass Tokens is changed to "0.1 * stat_level" (e.g. +5% after choosing the stat 50 times)
 7. Death Penalty Cost (the amount of money you lose after dying in % of your current sum) is increased to 75%
 8. EXP penalty for killing enemies with vehicle weapons is removed
 9. EXP bonus for killing enemies of higher levels is significantly increased
