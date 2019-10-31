@@ -55,12 +55,12 @@ Changes:
 37. Cooldown of Gunzerking ability is increased by 50%
 38. Golden Chest is no longer guaranteed to contain purple gear
 39. Cost to open Golden Chest is changed to 10 Eridium
-40. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
-41. All Torgue Token drops are doubled (does not affect mission rewards)
-42. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
-43. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
-44. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
-45. Seraph Vendor item costs are halved
-46. The item pool of Seraph Vendor in Oasis is expanded
-47. Bonus enemy stats for extra coop players are significantly reduced
-48. Descriptions of Maya's Thoughtlock ability and shields with electrocute damage resistance are fixed
+40. Stat bonuses from Slayer of Terramorphous class mods are increased by 1 (up to 5, matching other Legendary class mods)
+41. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
+42. All Torgue Token drops are doubled (does not affect mission rewards)
+43. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
+44. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
+45. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
+46. Seraph Vendor item costs are halved
+47. The item pool of Seraph Vendor in Oasis is expanded
+48. Bonus enemy stats for extra coop players are significantly reduced
