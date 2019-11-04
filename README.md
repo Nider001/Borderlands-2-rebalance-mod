@@ -54,7 +54,7 @@ Changes:
 36. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
 37. Cooldown of Gunzerking ability is increased by 50%
 38. Golden Chest is no longer guaranteed to contain purple gear
-39. Cost to open Golden Chest is changed to 10 Eridium
+39. Cost to open Golden Chest is changed to 8 Eridium
 40. Stat bonuses from Slayer of Terramorphous class mods are increased by 1 (up to 5, matching other Legendary class mods)
 41. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
 42. All Torgue Token drops are doubled (does not affect mission rewards)
