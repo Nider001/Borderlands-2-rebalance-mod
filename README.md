@@ -62,5 +62,4 @@ Changes:
 44. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
 45. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
 46. Seraph Vendor item costs are halved
-47. The item pool of Seraph Vendor in Oasis is expanded
-48. Bonus enemy stats for extra coop players are significantly reduced
+47. Bonus enemy stats for extra coop players are significantly reduced
