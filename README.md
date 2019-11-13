@@ -48,6 +48,7 @@ Changes:
 30. Health of all badass enemies (including bosses) is increased by 50%
 31. Health of main story bosses is increased further 
 32. Health of all raid bosses is reduced
+33. Hyperius the Invincible is changed to be a bit less boring: health is reduced further, cannons are added to minions (projectiles are easy to dodge)
 33. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
 34. Enemies now drop their weapons upon death
 35. Angelic Guards are replaced with SGT Loaders across most of the locations
