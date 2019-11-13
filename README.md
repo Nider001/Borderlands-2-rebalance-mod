@@ -49,18 +49,18 @@ Changes:
 31. Health of main story bosses is increased further 
 32. Health of all raid bosses is reduced
 33. Hyperius the Invincible is changed to be a bit less boring: health is reduced further, cannons are added to minions (projectiles are easy to dodge)
-33. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
-34. Enemies now drop their weapons upon death
-35. Angelic Guards are replaced with SGT Loaders across most of the locations
-36. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
-37. Cooldown of Gunzerking ability is increased by 50%
-38. Golden Chest is no longer guaranteed to contain purple gear
-39. Cost to open Golden Chest is changed to 8 Eridium
-40. Stat bonuses from Slayer of Terramorphous class mods are increased by 1 (up to 5, matching other Legendary class mods)
-41. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
-42. All Torgue Token drops are doubled (does not affect mission rewards)
-43. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
-44. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
-45. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
-46. Seraph Vendor item costs are halved
-47. Bonus enemy stats for extra coop players are significantly reduced
+34. Enemies now have a 30% chance to carry a different weapon type instead of the base one (e.g. Marauders may to use Assault Rifles or Launchers instead of Shotguns). Allowed selection of weapon types varies depending on primary weapon
+35. Enemies now drop their weapons upon death
+36. Angelic Guards are replaced with SGT Loaders across most of the locations
+37. Basic enemy AI (everything that uses standard firearms) is set to prioritize spraying over burst-firing
+38. Cooldown of Gunzerking ability is increased by 50%
+39. Golden Chest is no longer guaranteed to contain purple gear
+40. Cost to open Golden Chest is changed to 8 Eridium
+41. Stat bonuses from Slayer of Terramorphous class mods are increased by 1 (up to 5, matching other Legendary class mods)
+42. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
+43. All Torgue Token drops are doubled (does not affect mission rewards)
+44. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
+45. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
+46. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
+47. Seraph Vendor item costs are halved
+48. Bonus enemy stats for extra coop players are significantly reduced
