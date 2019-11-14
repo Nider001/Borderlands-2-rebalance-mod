@@ -57,7 +57,7 @@ Changes:
 39. Golden Chest is no longer guaranteed to contain purple gear
 40. Cost to open Golden Chest is changed to 8 Eridium
 41. Stat bonuses from Slayer of Terramorphous class mods are increased by 1 (up to 5, matching other Legendary class mods)
-42. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random very rare items
+42. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random Very Rare items
 43. All Torgue Token drops are doubled (does not affect mission rewards)
 44. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
 45. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
