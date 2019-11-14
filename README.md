@@ -1,5 +1,5 @@
 # Borderlands-2-rebalance-mod
-A mix between ultimate vault hunter and normal playthrough mods with some extra changes for refreshing experience
+A mix between ultimate vault hunter and normal playthrough mods with many extra changes for refreshing experience
 
 Download link:
 
