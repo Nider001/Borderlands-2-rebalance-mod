@@ -61,6 +61,6 @@ Changes:
 43. All Torgue Token drops are doubled (does not affect mission rewards)
 44. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
 45. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
-46. Torgue Vending Machines are no longer allowed to sell very rare weapons (excluding item of the day). The pool of available items is adjusted
+46. Torgue Vending Machines are no longer allowed to sell Very Rare weapons (excluding item of the day). The pool of available items is adjusted
 47. Seraph Vendor item costs are halved
 48. Bonus enemy stats for extra coop players are significantly reduced
