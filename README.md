@@ -63,5 +63,6 @@ Changes:
 46. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Epic gear). The pool of available items is adjusted
 47. Torgue Vending Machines are no longer allowed to sell Very Rare weapons (excluding item of the day). The pool of available items is adjusted
 48. Seraph Vendor item costs are halved
-49. Most of the Effervescent items are disabled (minus cosmetics and Unicornsplosion) for being way too powerful and easy to obtain. M2828 Thumpson's ammo consumption is increased to 2 per shot
-50. Bonus enemy stats for extra coop players are significantly reduced
+49. Most of the Effervescent items are disabled (minus cosmetics and Unicornsplosion) for being way too powerful and easy to obtain
+50. M2828 Thumpson's ammo consumption is increased to 2 per shot. Amigo Sincero's bonus damage is reduced to 200%
+51. Bonus enemy stats for extra coop players are significantly reduced
