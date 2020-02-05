@@ -16,7 +16,7 @@ https://imgur.com/a/twL4oJV
 Changes:
 
 1. The mod is designed around playing in UVHM from level 1 (check out installation guide above for details)
-2. Most of the features from UVHM are disabled (minus scaling, new enemy types and mission- and loot-related changes)
+2. Most of the features from UVHM are disabled (minus scaling, new enemy types, mission- and loot-related changes)
 3. Universal Balance Modifier value is reduced from 13% to 1.4%. Things such as weapon damage, shield capacity, certain relic stats, etc. increase by 13% for each level that the player has in vanilla (notice how late-game weapons deal 10000x more damage compared to starting ones). I'm not a big fan of this mechanic, so I've decided to soften the curve a bit
 4. Level requirement is hidden and diabled for every item in the game (level is not everything!)
 5. Legendary and Pearlescent items are replaced with Epic ones in some of the random enemy drop pools (this includes Loot Midgets to prevent farming)
