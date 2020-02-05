@@ -15,7 +15,7 @@ https://imgur.com/a/twL4oJV
 
 Features and changes:
 
-1. The mod is designed around playing in UVHM (check out installation guide above for details)
+1. The mod is designed around playing in UVHM from level 1 (check out installation guide above for details)
 2. Most of the features from UVHM are disabled (minus scaling and new enemy types)
 3. Universal Balance Modifier value is reduced from 13% to 1.4%. Things such as weapon damage, shield capacity, certain relic stats, etc. increase by 13% for each level that the player has in vanilla (notice how late-game weapons deal 10000x more damage compared to starting ones). I'm not a big fan of this mechanic, so I've decided to soften the curve a bit
 4. Level requirement is hidden and diabled for every item in the game (level is not everything!)
