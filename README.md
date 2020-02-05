@@ -64,5 +64,5 @@ Changes:
 47. Torgue Vending Machines are no longer allowed to sell Very Rare weapons as basic items (excluding item of the day). The pool of available basic items is adjusted
 48. Seraph Vendor item costs are halved
 49. Most of the Effervescent items are disabled (minus cosmetics and Unicornsplosion) for being way too powerful and easy to obtain
-50. M2828 Thumpson's ammo consumption is increased to 2 per shot. Amigo Sincero's bonus damage is reduced to 200%
+50. M2828 Thumpson's ammo consumption is increased to 2 per shot. Amigo Sincero's bonus damage is reduced to 201%
 51. Bonus enemy stats for extra coop players are significantly reduced
