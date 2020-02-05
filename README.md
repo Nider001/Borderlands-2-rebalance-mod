@@ -13,7 +13,7 @@ Installation:
 
 https://imgur.com/a/twL4oJV
 
-Features and changes:
+Changes:
 
 1. The mod is designed around playing in UVHM from level 1 (check out installation guide above for details)
 2. Most of the features from UVHM are disabled (minus scaling and new enemy types)
