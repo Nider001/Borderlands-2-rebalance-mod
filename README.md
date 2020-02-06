@@ -1,5 +1,5 @@
 # Borderlands-2-rebalance-mod
-A comprehensive balance overhaul that is focused on mixing between Ultimate Vault Hunter and Normal modes with many extra changes for refreshing experience
+A comprehensive balance overhaul that is focused on combining Ultimate Vault Hunter and Normal modes with many extra changes for refreshing experience
 
 Download link:
 
