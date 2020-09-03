@@ -31,7 +31,7 @@ Changes:
 13. Slag bonus damage is reduced to 34%
 14. Enemy respawn delay is increased
 15. Enemy shield capacity is increased to promote the usage of shock weapons
-16. Generic enemy grenade damage and radius are tripled (said values are extremely low in vanilla)
+16. Generic enemy grenade damage and radius are doubled and tripled respectively (said values are extremely low in vanilla)
 17. Base damage of all assault rifles is significantly increased (to the level of vanilla pistols)
 18. Base damage of all SMGs is moderately increased (to the level of vanilla assault rifles)
 19. Base damage of all pistols is greatly reduced (to the level of vanilla SMGs)
