@@ -44,7 +44,7 @@ Changes:
 26. Unkempt Harold's ammo consumption is increased to 3 per shot
 27. Lucrative Opportunity's bonus is massively improved
 28. Item selling costs are reduced by 50%. This does not affect buying costs
-29. Legendary drops at Southern Shelf are disabled until the player hits level 10. Hornet and Bonus Package drop rates are halved
+29. Legendary drops at Southern Shelf are disabled until the player hits level 10, Bonus Package drop rate is halved
 30. Enemy damage reduction/bonus (that they recieve when level difference between the player and enemy unit is too high) is now capped at 10% when level difference reaches 3
 31. Health of all badass enemies (including bosses) is increased by 50%
 32. Health of main story bosses is increased further 
@@ -60,10 +60,11 @@ Changes:
 42. Stat bonuses from Slayer of Terramorphous class mods are increased by 1 (up to 5, matching other Legendary class mods)
 43. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random Very Rare items
 44. All Torgue Token drops are doubled (does not affect mission rewards)
-45. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
-46. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Very Rare gear). The pool of available items of the day is adjusted
-47. Torgue Vending Machines are no longer allowed to sell Very Rare weapons as basic items (excluding item of the day). The pool of available basic items is adjusted
-48. Seraph Vendor item costs are halved
-49. Most of the Effervescent items are disabled (minus cosmetics and Unicornsplosion) for being way too powerful and easy to obtain
-50. M2828 Thumpson's ammo consumption is increased to 2 per shot. Amigo Sincero's bonus damage is reduced to 201%
-51. Bonus enemy stats for extra coop players are significantly reduced
+45. Projectile reflection of Badassasaurus is nerfed
+46. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
+47. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Very Rare gear). The pool of available items of the day is adjusted
+48. Torgue Vending Machines are no longer allowed to sell Very Rare weapons as basic items (excluding item of the day). The pool of available basic items is adjusted
+49. Seraph Vendor item costs are halved
+50. Most of the Effervescent items are disabled (minus cosmetics and Unicornsplosion) for being way too powerful and easy to obtain
+51. M2828 Thumpson's ammo consumption is increased to 2 per shot. Amigo Sincero's bonus damage is reduced to 201%
+52. Bonus enemy stats for extra coop players are significantly reduced
