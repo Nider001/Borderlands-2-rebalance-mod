@@ -58,14 +58,13 @@ Changes:
 40. Golden Chest is no longer guaranteed to contain purple gear
 41. Cost to open Golden Chest is changed to 8 Eridium
 42. Stat bonuses from Slayer of Terramorphous class mods are increased by 1 (up to 5, matching other Legendary class mods)
-43. The permanent slag glitch is fixed (using the fix from UCP)
-44. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random Very Rare items
-45. All Torgue Token drops are doubled (does not affect mission rewards)
-46. Projectile reflection of Badassasaurus is nerfed
-47. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
-48. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Very Rare gear). The pool of available items of the day is adjusted
-49. Torgue Vending Machines are no longer allowed to sell Very Rare weapons as basic items (excluding item of the day). The pool of available basic items is adjusted
-50. Seraph Vendor item costs are halved
-51. Most of the Effervescent items are disabled (minus cosmetics and Unicornsplosion) for being way too powerful and easy to obtain
-52. M2828 Thumpson's ammo consumption is increased to 2 per shot. Amigo Sincero's bonus damage is reduced to 201%
-53. Bonus enemy stats for extra coop players are significantly reduced
+43. Reward for completing 'More History of Simulated Violence' mission is changed to a choice between two random Very Rare items
+44. All Torgue Token drops are doubled (does not affect mission rewards)
+45. Projectile reflection of Badassasaurus is nerfed
+46. Torgue Vending Machine item costs are changed to fixed values: 50 for regular ones, 125 for items of the day
+47. Torgue Vending Machines are no longer allowed to have Legendary gear as an item of the day (replaced with Very Rare gear). The pool of available items of the day is adjusted
+48. Torgue Vending Machines are no longer allowed to sell Very Rare weapons as basic items (excluding item of the day). The pool of available basic items is adjusted
+49. Seraph Vendor item costs are halved
+50. Most of the Effervescent items are disabled (minus cosmetics and Unicornsplosion) for being way too powerful and easy to obtain
+51. M2828 Thumpson's ammo consumption is increased to 2 per shot. Amigo Sincero's bonus damage is reduced to 201%
+52. Bonus enemy stats for extra coop players are significantly reduced
